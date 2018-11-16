@@ -6,6 +6,9 @@ Here I collect a list of useful resources for preparing for Interviews for the p
  2) Producer consumer code https://caveofprogramming.com/java-multithreading/java-multithreading-producer-consumer-blockingqueue-part-7.html
 
 # Questions 
+https://stackoverflow.com/questions/1855170/when-should-we-use-intern-method-of-string-on-string-literals
+https://blog.jooq.org/2013/10/09/sql-trick-row_number-is-to-select-what-dense_rank-is-to-select-distinct/
+
 The serialization runtime associates with each serializable class a version number, called a serialVersionUID, which is used during deserialization to verify that the sender and receiver of a serialized object have loaded classes for that object that are compatible with respect to serialization. If the receiver has loaded a class for the object that has a different serialVersionUID than that of the corresponding sender's class, then deserialization will result in an  InvalidClassException. A serializable class can declare its own serialVersionUID explicitly by declaring a field named serialVersionUID that must be static, final, and of type long:
 
 ANY-ACCESS-MODIFIER static final long serialVersionUID = 42L;
