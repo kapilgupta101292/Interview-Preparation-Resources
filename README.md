@@ -4,6 +4,7 @@ Here I collect a list of useful resources for preparing for Interviews for the p
 # Java Resources
  1) Example of Volataile Keyword https://dzone.com/articles/java-volatile-keyword-0
  2) Producer consumer code https://caveofprogramming.com/java-multithreading/java-multithreading-producer-consumer-blockingqueue-part-7.html
+ 3) Concurrent HashMap working https://dzone.com/articles/how-concurrenthashmap-works-internally-in-java
 
 # Questions 
 https://stackoverflow.com/questions/1855170/when-should-we-use-intern-method-of-string-on-string-literals
