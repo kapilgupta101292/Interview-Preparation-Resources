@@ -7,6 +7,9 @@ Here I collect a list of useful resources for preparing for Interviews for the p
  3) Concurrent HashMap working https://dzone.com/articles/how-concurrenthashmap-works-internally-in-java
  4) PermGen Space Leak https://plumbr.io/blog/memory-leaks/what-is-a-permgen-leak
 
+# DB Resource 
+1) Triggers : https://docs.oracle.com/cd/A57673_01/DOC/server/doc/SCN73/ch15.htm
+2) Hierarchical Queries : http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/
 # Questions 
 https://stackoverflow.com/questions/1855170/when-should-we-use-intern-method-of-string-on-string-literals
 https://blog.jooq.org/2013/10/09/sql-trick-row_number-is-to-select-what-dense_rank-is-to-select-distinct/
