@@ -3,6 +3,7 @@ Here I collect a list of useful resources for preparing for Interviews for the p
 
 # DS Algo
  1) External Sorting http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L17-ExternalSort.htm
+ #To Do -> Replacement Sort and how DB does sorting internally.
 # Java Resources
  1) Example of Volataile Keyword https://dzone.com/articles/java-volatile-keyword-0
  2) Producer consumer code https://caveofprogramming.com/java-multithreading/java-multithreading-producer-consumer-blockingqueue-part-7.html
