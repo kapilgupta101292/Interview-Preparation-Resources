@@ -1,0 +1,14 @@
+Interview Questions
+1) Capilliary Technology : Round 1 -> 
+Given a List of character list List<List<Character>> find the increasing sequence
+ # -> 3 -> 2 -> 1
+ 5 -> 6 -> #
+ 4 -> #
+ 6 -> 4 
+ Ans => 5 -> 6 -> 4 -> # -> 3 -> 2 -> 1 
+ 
+ using a directed graph 
+ 
+ Round 2 -> Design a Load Balancer
+ -> Design a URL shoretener
+ -> Difference between Interface and abstract class
