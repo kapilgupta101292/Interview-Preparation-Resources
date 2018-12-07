@@ -63,3 +63,7 @@ Java 8
 Default Methods and static methods in interface
 http://www.kousenit.com/java8/#_functional_interfaces_in_the_code_java_util_function_code_package
 https://www.programcreek.com/2014/12/default-methods-in-java-8-and-multiple-inheritance/
+
+#Articles
+https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
+
