@@ -9,6 +9,7 @@ Here I collect a list of useful resources for preparing for Interviews for the p
  2) Producer consumer code https://caveofprogramming.com/java-multithreading/java-multithreading-producer-consumer-blockingqueue-part-7.html
  3) Concurrent HashMap working https://dzone.com/articles/how-concurrenthashmap-works-internally-in-java
  4) PermGen Space Leak https://plumbr.io/blog/memory-leaks/what-is-a-permgen-leak
+ 5) Concurrency Topics https://www.baeldung.com/java-concurrent-locks
  To Do -> Read about OS problems like dining philosophers.
 
 # DB Resource 
